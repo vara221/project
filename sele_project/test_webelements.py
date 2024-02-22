@@ -2,7 +2,7 @@
 
 import pytest
 import logging
-from sele_project.webelement import WebTest
+from webelement import WebTest
 
 
 class TestGrp:
