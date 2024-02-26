@@ -16,6 +16,7 @@ class Verify:
         self.fh.setFormatter(self.fmt)
         self.logger.addHandler(self.fh)
         self.logger.setLevel(logging.DEBUG)
+        print("logger initiated")
 
     def equilateral(self):
         self.logger.info("checking equilateral triangle")
