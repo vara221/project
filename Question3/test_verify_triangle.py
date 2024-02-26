@@ -3,6 +3,7 @@ from selenium.webdriver import chrome
 from selenium.webdriver.support.select import Select
 from selenium.webdriver.common.by import By
 import logging
+import pytest
 
 
 class Verify:
