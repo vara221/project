@@ -4,7 +4,7 @@ class Test_triangle:
     @classmethod
     def setup_class(cls):
         cls.vt = Verify()
-        cls.vt.logger.info("setting up...")
+        cls.vt.logger.inf("setting up...")
 
     @classmethod
     def teardown_class(cls):
