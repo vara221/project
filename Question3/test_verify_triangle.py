@@ -1,4 +1,4 @@
-from verify_triangle import Verify
+#from verify_triangle import Verify
 
 class Test_triangle:
     @classmethod
